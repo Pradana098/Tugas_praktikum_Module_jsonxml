@@ -26,7 +26,8 @@ NIM     : 362358302077
 
    implementasi mengambil data dari book_json.php ke xml menggunakan node js
    
-   ![Praktikum Module -jsonxml pdf - Google Chrome 15_10_2024 14 30 49](https://github.com/user-attachments/assets/9ba6d16c-9ee4-488d-8dc9-c491eab3bb83)
+   ![book_xml php - Tugas_Praktikum_Module_jsonxml - Visual Studio Code 15_10_2024 18 25 45](https://github.com/user-attachments/assets/db52e2ad-7dc8-43b6-842e-bd9d8b939249)
+
 
 
 
